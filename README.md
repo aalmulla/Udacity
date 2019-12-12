@@ -1,1 +1,1 @@
-# Udacity
+type: subjectbodyfooter
