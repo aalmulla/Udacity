@@ -1,1 +1,5 @@
-type: subjectbodyfooter
+type: subject
+
+body
+
+footer
